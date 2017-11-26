@@ -21,6 +21,8 @@
     "coinbase": "^2.0.6",
     "config": "^1.28.1",
     "express": "^4.16.2",
-    "nodemon": "^1.12.1"
+    "mongodb": "^2.2.33",
+    "nodemon": "^1.12.1",
+    "plaid": "^2.1.1"
   }
 }
