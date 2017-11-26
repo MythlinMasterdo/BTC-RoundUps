@@ -1,0 +1,19 @@
+{
+  "name": "btc-roundups",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MythlinMasterdo/BTC-RoundUps.git"
+  },
+  "author": "Miles Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MythlinMasterdo/BTC-RoundUps/issues"
+  },
+  "homepage": "https://github.com/MythlinMasterdo/BTC-RoundUps#readme"
+}
